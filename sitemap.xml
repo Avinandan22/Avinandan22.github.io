@@ -3,11 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/</loc>
+    <lastmod>2019-09-08T21:50:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/project/</loc>
+    <lastmod>2019-09-08T21:50:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/tensorcompletion/</loc>
+    <lastmod>2019-09-08T21:50:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/pml/</loc>
+    <lastmod>2019-09-04T01:00:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/gan/</loc>
+    <lastmod>2019-09-08T21:49:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/algos/</loc>
+    <lastmod>2019-09-08T21:50:15+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/soc/</loc>
+    <lastmod>2019-09-08T21:50:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>

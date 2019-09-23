@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Avinandan Bose</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -17,9 +17,11 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Somphomore Undergraduate at Indian Institute of Technology, Kanpur majoring in Computer Science and Engineering, broadly interested in the areas of Probabilistic Machine Learning and Deep Learning.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;My sophomore year research work has been centered around using Tensors for Approximate Inference on multi way and temporal data. Under the supervision of  &lt;a href=&#34;http://home.iitk.ac.in/~ketan/&#34; target=&#34;_blank&#34;&gt;Prof. Ketan Rajawat&lt;/a&gt;, I am working on developing a Tensor based model using Time Series for solving the problem of Traffic Estimation and Prediction.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve had some exposure to Recommender Systems ,Autoencoders ,Generative Adversarial Networks(GANs) and Deep Learning in the past.&lt;/p&gt;
 </description>
     </item>
     
