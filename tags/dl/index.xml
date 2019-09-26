@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DL | Avinandan Bose</title>
+    <link>/tags/dl/</link>
+      <atom:link href="/tags/dl/index.xml" rel="self" type="application/rss+xml" />
+    <description>DL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jul 2019 21:49:53 +0530</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>DL</title>
+      <link>/tags/dl/</link>
+    </image>
+    
+    <item>
+      <title>TorchGAN</title>
+      <link>/project/gan/</link>
+      <pubDate>Mon, 08 Jul 2019 21:49:53 +0530</pubDate>
+      <guid>/project/gan/</guid>
+      <description>&lt;p&gt;Implemented Deep Residual Nets for Image Recognition using skip connections between layers and studied the improvement in results without skip connections. Learned the basics of Autoencoders and Generative Adversarial Networks, ideas of Distribution Matching, Minimax Games and Divergence Minimization via Adversarial Learning. Implemented models such as Minimax GAN, LSGAN, Wasserstein GAN. Used evaluation metrics such as Inception Score and Frechet Inception Distance in PyTorch and TorchGAN.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

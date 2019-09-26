@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Avinandan Bose</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>PML | Avinandan Bose</title>
+    <link>/tags/pml/</link>
+      <atom:link href="/tags/pml/index.xml" rel="self" type="application/rss+xml" />
+    <description>PML</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Sep 2019 21:50:03 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>PML</title>
+      <link>/tags/pml/</link>
     </image>
     
     <item>
@@ -27,34 +27,6 @@
       <pubDate>Sun, 04 Aug 2019 01:00:33 +0530</pubDate>
       <guid>/project/pml/</guid>
       <description>&lt;p&gt;Studied and understood preliminaries of Bayesian Inference, Non-Conjugacy and Conditional Conjugacy, Linear Models and Exponential Families, Latent Variable Models, Expectation Maximization Algorithm, Variational Inference and Markov Chain Monte Carlo. Implemented model in NumPy for density estimation using Gaussian Mixture Models on MNIST dataset. Built a Recommender System using Bayesian Matrix Factorisation and studied and understood Poisson Matrix Factorisation. Built a Variational Autoencoder model on PyTorch to learn a low dimensional representation for handwritten digits.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TorchGAN</title>
-      <link>/project/gan/</link>
-      <pubDate>Mon, 08 Jul 2019 21:49:53 +0530</pubDate>
-      <guid>/project/gan/</guid>
-      <description>&lt;p&gt;Implemented Deep Residual Nets for Image Recognition using skip connections between layers and studied the improvement in results without skip connections. Learned the basics of Autoencoders and Generative Adversarial Networks, ideas of Distribution Matching, Minimax Games and Divergence Minimization via Adversarial Learning. Implemented models such as Minimax GAN, LSGAN, Wasserstein GAN. Used evaluation metrics such as Inception Score and Frechet Inception Distance in PyTorch and TorchGAN.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Algorithms in Depth</title>
-      <link>/project/algos/</link>
-      <pubDate>Sat, 08 Jun 2019 21:50:15 +0530</pubDate>
-      <guid>/project/algos/</guid>
-      <description>&lt;p&gt;A summer project under Programming Club IITK where I studied,understood and implemented alorithms on graphs such as BFS,DFS,Djikstra,Kruskal. In the field of Game Theory such as Game of Nim and Grundy numbers. And miscellaneaous topics such as KMP,Huffman Coding and Disjoint Set Union.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Smart Purchase App</title>
-      <link>/project/soc/</link>
-      <pubDate>Wed, 08 May 2019 21:50:19 +0530</pubDate>
-      <guid>/project/soc/</guid>
-      <description>&lt;p&gt;Developed a web app for efficient inventory management across various departments of the NGO Vitraag Vigyaan by facilitating transfers and
-managing purchase tenders.&lt;/p&gt;
 </description>
     </item>
     

@@ -8,8 +8,18 @@
   </url>
   
   <url>
+    <loc>/tags/pml/</loc>
+    <lastmod>2019-09-08T21:50:03+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
     <lastmod>2019-09-08T21:50:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-08T21:50:03+05:30</lastmod>
   </url>
   
   <url>
@@ -20,6 +30,11 @@
   <url>
     <loc>/project/pml/</loc>
     <lastmod>2019-09-04T01:00:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dl/</loc>
+    <lastmod>2019-09-08T21:49:53+05:30</lastmod>
   </url>
   
   <url>
@@ -63,10 +78,6 @@
   
   <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
