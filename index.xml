@@ -5,12 +5,21 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Avinandan Bose</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Sep 2019 21:50:03 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2019 21:50:15 +0530</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Avinandan Bose</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Change Point Detection in Textual Data</title>
+      <link>/project/changepoint/</link>
+      <pubDate>Sun, 08 Dec 2019 21:50:15 +0530</pubDate>
+      <guid>/project/changepoint/</guid>
+      <description>&lt;p&gt;Studied Change Point Detection Methods such as Page’s,Barnard’s,Shiryaev’s and Lorden’s procedures and newer approaches like Wild Binary Segmentation.Studied Latent Dirichlet Allocation for Topic Modelling.Studied the basics of NLP.Project in it’s initial stage.We are working on detecting change points in time series textual data, such as news topics over a decade.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Traffic Prediction using Variational Bayesian Inference for Tensor Factorisation and Completion</title>

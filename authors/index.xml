@@ -19,11 +19,11 @@
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Sophomore Undergraduate at Indian Institute of Technology, Kanpur majoring in Computer Science and Engineering, broadly interested in the areas of Probabilistic Machine Learning and Deep Learning.&lt;/p&gt;
 
-&lt;p&gt;My sophomore year research work has been centered around using Tensors for Approximate Inference on multi-way and temporal data. Under the supervision of  &lt;a href=&#34;http://home.iitk.ac.in/~ketan/&#34; target=&#34;_blank&#34;&gt;Prof. Ketan Rajawat&lt;/a&gt;, I developed a Tensor based model using Markov Chain Time Series for solving the problem of Traffic Estimation and Prediction.&lt;/p&gt;
+&lt;p&gt;My sophomore year research work has been centered around using Tensors for Approximate Inference on multi-way and temporal data. Under the supervision of  &lt;a href=&#34;http://home.iitk.ac.in/~ketan/&#34; target=&#34;_blank&#34;&gt;Prof. Ketan Rajawat&lt;/a&gt;, I developed a Tensor based model using First Order Auto Regressive Time Series for solving the problem of Traffic Estimation and Prediction.&lt;/p&gt;
 
-&lt;p&gt;The following Spring Semester(Jan20-Apr20) I have registered for EE609A(Convex Optimization in Signal Processing and Communications),CS771(Introduction to Machine Learning) and MTH535(An Introduction to Bayesian Analysis) and am very excited to explore and study these topics.&lt;/p&gt;
+&lt;p&gt;I started working with &lt;a href=&#34;https://soumendu041.gitlab.io/&#34; targt=&#34;_blank&#34;&gt;Prof.Soumendu Sundar Mukherjee&lt;/a&gt; in December 2019 at Indian Statistical Institute, Kolkata. We have been working on identifying Change Points in textual data such as topic changes in the news articles over the years and writing style changes across different eras.&lt;/p&gt;
 
-&lt;p&gt;I will be working with &lt;a href=&#34;https://soumendu041.gitlab.io/&#34; targt=&#34;_blank&#34;&gt;Prof.Soumendu Sundar Mukherjee&lt;/a&gt; the following month(December19) at Indian Statistical Institute, Kolkata.&lt;/p&gt;
+&lt;p&gt;This Semester(Jan20-Apr20) I have registered for EE609A(Convex Optimization in Signal Processing and Communications) and MTH535(An Introduction to Bayesian Analysis) and am very excited to explore and study these topics.&lt;/p&gt;
 
 &lt;p&gt;Last summer I explored Probabilistic Machine Learning. I studied the preliminaries of Bayesian Inference, Non-Conjugacy and Conditional Conjugacy, Linear Models and Exponential Families, Latent Variable Models, EM and VI Algorithms, and Markov Chain Monte Carlo. I worked on Recommender Systems using Bayesian Matrix Factorisation and Poisson Matrix Factorisation. I also explored Variational Autoencoders.&lt;/p&gt;
 
