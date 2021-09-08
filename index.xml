@@ -5,39 +5,12 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Avinandan Bose</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Dec 2020 21:50:15 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/img/icon-192.png</url>
       <title>Avinandan Bose</title>
       <link>/</link>
     </image>
-    
-    <item>
-      <title>NeurInt : Learning to Interpolate using Neural ODEs</title>
-      <link>/project/interpolation/</link>
-      <pubDate>Tue, 08 Dec 2020 21:50:15 +0530</pubDate>
-      <guid>/project/interpolation/</guid>
-      <description>&lt;p&gt;Developed a framework to train deep generative models using interpolations modelled by Neural ODEs which simultaneously learns a distribution of trajectories which interpolate smoothly and reversibly between pairs of images ensuring these interpolations have high image quality and are diverse in nature.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Changepoint Analysis in Topic Proportions in Temporal Text Data</title>
-      <link>/project/changepoint/</link>
-      <pubDate>Sun, 08 Dec 2019 21:50:15 +0530</pubDate>
-      <guid>/project/changepoint/</guid>
-      <description>&lt;p&gt;Developed a specialized temporal topic model with provisions for change points, scalable to large corpora of text data. Our model facilitates detection change points, ie.changes in the distribution generating data when the data is textual in nature. We were able to detect accurately well known changepoints in real datasets, like literary eras in English Literature and Trends in High Energy Physics research papers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Traffic Prediction using Variational Bayesian Inference for Tensor Factorisation and Completion</title>
-      <link>/project/tensorcompletion/</link>
-      <pubDate>Sun, 08 Sep 2019 21:50:03 +0530</pubDate>
-      <guid>/project/tensorcompletion/</guid>
-      <description>&lt;p&gt;Explored Approximate Inference for high volume and multi-way temporal data in Tensor form for Traffic Prediction. I extended pre-existing Tensor Factorization models, to a model obeying first-order auto-regression to capture the temporal dynamics useful for online applications like traffic forecasting and predicting estimated time of arrival for cab services.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
